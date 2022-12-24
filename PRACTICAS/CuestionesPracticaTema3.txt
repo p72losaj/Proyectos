@@ -1,0 +1,19 @@
+1. Determinar la fecha de finalización si el proyecto comenzase el 3 de Mayo de 2010.
+La fecha de terminación del proyecto sería el 2 de Agosto de 2010
+
+2. Observando el calendario de uso de recursos y el histograma, determinar si hay recursos sobre-asignados y, en caso afirmativo, poner un ejemplo para cada recurso sobre asignado.
+
+Si observamos el histograma, podemos observar la disponibilidad de cada recurso, así como las fechas.
+
+Esto lo podemos observar si cambiamos entre los distintos recursos: Director, Equipo y Sistema
+
+En cuanto al recurso de director, comprobamos que el 3 de Mayo la disponibilidad del recurso es del 100%;  sin embargo, el uso del recurso es del 200 %.
+
+En cuanto al recurso de equipo, comprobamos que el 17 de Mayo la disponibilidad del recurso es del 100%; sin embargo, el uso del recurso es del 200%.
+
+En cuanto al recurso del sistema, comprobamos que no se produce un sobre-asignación del recurso.
+
+3. Asignar un coste horario a los diferentes recursos, a criterio del alumno. Ver como se reflejan en los informes y comentar alguno de los valores.
+
+Si asignamos un coste horario a los diferentes recursos, podemos comprobar en la vista del proyecto que el coste del proyecto es de 35960 euros.
+
